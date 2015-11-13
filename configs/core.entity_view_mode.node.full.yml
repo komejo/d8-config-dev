@@ -1,0 +1,10 @@
+uuid: 8602ebc9-9f48-4def-a300-f0595c816a6c
+langcode: en
+status: false
+dependencies:
+  module:
+    - node
+id: node.full
+label: 'Full content'
+targetEntityType: node
+cache: true
